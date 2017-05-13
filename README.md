@@ -137,3 +137,9 @@ As can be expected from any one week project we were too overambitious on the mi
 The first two days were spent wrestling with Asynchronous Javascript. This meant numerous overhauls of the codebase which left the testing somewhat to be desired. We didn't manage to get Travis working but to be honest, when you're working to a deadline it's hard not to be impatient with setting up that friendly code miner.
 ### Error Catching
 Our programme almost exclusively relies on the perfect user. The interface doesn't give feedback to the user to let it know what it's doing and won't let them know whether it's a slow API call or one that's just flat out broken.
+
+
+## Resources
+### API
+- [Transport API] (http://www.transportapi.com/)
+- [Whatsapp API] (https://www.whatsapp.com/faq/en/android/28000012)
